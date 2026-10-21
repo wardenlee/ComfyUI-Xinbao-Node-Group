@@ -1,4 +1,4 @@
-import { app } from "/scripts/app.js";
+import { app } from "../../scripts/app.js";
 
 const NODE_CLASSES = new Set(["XinbaoLightingCompanion", "XinbaoLightingPromptSelector"]);
 const NODE_TITLE = "心宝❤打光搭档";
